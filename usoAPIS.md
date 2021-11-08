@@ -1,0 +1,1 @@
+La mayoría de APIs y servicios más populares están tan sumamente extendidos que han sido probados en toda clase de situaciones de estrés, por lo que podremos asegurar que su respuesta será adecuada en la inmensa mayoría de los casos.
